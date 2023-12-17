@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T05:17:06.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="22.1.11" etag="5KC2DnhDOkyj0qzsAbH1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T05:51:08.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_jMFXanMjA-CQc35c8E-" version="22.1.11" type="github">
   <diagram name="第 1 页" id="xsQQdAE2ALR99R8PyWV8">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wmNcp2XQqTNSnOwdL_xd-1" value="&lt;h3&gt;本地知识库&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wmNcp2XQqTNSnOwdL_xd-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="150" as="sourcePoint" />
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wmNcp2XQqTNSnOwdL_xd-3" value="&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;非结构化数据&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;载入模块&lt;/font&gt;&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="115" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wmNcp2XQqTNSnOwdL_xd-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="149.5" as="sourcePoint" />
+            <mxPoint x="440" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wmNcp2XQqTNSnOwdL_xd-5" value="&lt;h3&gt;文本&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
